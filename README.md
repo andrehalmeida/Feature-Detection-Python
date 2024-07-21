@@ -1,1 +1,1 @@
-<img src="Figura_1.png">
+<img src="hubcap.jpg">
